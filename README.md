@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pkanagalakshmi
-- 👀 I’m interested in Machine Learning (ML)/Data Science (DS)/AWS Cloud
+- 👀 I’m interested in Machine Learning (ML)/Data Science (DS)
 - 🌱 I’m currently learning  ML and DS.
-- 💞️ I’m looking to collaborate on Interesting projects related to ML, DS, and AWS cloud.
+- 💞️ I’m looking to collaborate on Interesting projects related to ML, DS.
 - 📫 How to reach me www.linkedin.com/in/kanaga-lakshmi-136b59227
 - 😄 Pronouns: Techie
 
